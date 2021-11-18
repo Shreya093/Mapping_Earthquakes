@@ -43,7 +43,7 @@ Also we can switch to the Satellite view of the map.
 
 <img width="1440" alt="sattelite" src="https://user-images.githubusercontent.com/88418201/142505086-1fa09e47-d2cb-44bf-b446-1600c5d0d434.png">
 
-### By opening the index.html file on the command line by giving "python -m http.server" command we get the below as the default view of the webpage in the local host server.
+###### By opening the index.html file on the command line by giving "python -m http.server" command we get the below as the default view of the webpage in the local host server.
 
 <img width="1440" alt="default" src="https://user-images.githubusercontent.com/88418201/142505494-8424afdd-854c-45c2-86e9-1a3ba144a6a2.png">
 
